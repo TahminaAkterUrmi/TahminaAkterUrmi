@@ -1,5 +1,4 @@
-### Hi there 👋, # Hi 👋, I'm Tahmina Akter Urmi
-![](https://c.neh.tw/thumb/f/720/comvecteezy227880.jpg)
+ # Hi 👋, I'm Tahmina Akter Urmi
 
 Hello, Myself Tahmina Urmi. Currently I'm working on Laravel, which is PHP framework. Previously I was working on  Internet of Things for my Thesis purpose.  I always try to survive new technologies and learn something new.
 
